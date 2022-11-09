@@ -1,14 +1,13 @@
 /*
   ============================================================
   Copyright (c) 2022 Christopher Connolly
-  Project:     ArtNet to DMX Gateway
+  Project:     Halloween 2022
   Author:      Christopher Connolly
   Last update: 28.10.2022
   Description: ESP32 Halloween Fun
   License:     GNU GPL 3, see libraries for respective licenes too
 
   Dependencies & Kudos:
-  https://github.com/someweisguy/esp_dmx from By Mitch Weisbrod 2021
   https://github.com/pschatzmann/ESP32-A2DP
   https://github.com/arkhipenko/TaskScheduler
   ============================================================
