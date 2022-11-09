@@ -1,6 +1,6 @@
 # Multi device controller for Halloween decorations
 
-This project controls multiple devices for a little bit of fun. Designed to control a guillotine and air solenoid after a victum triggers sensor
+This project controls multiple devices for a little bit of guillotine fun. Designed to control a guillotine and air solenoid after a victum triggers sensor
 
 ## Notes
 
@@ -22,3 +22,8 @@ This project controls multiple devices for a little bit of fun. Designed to cont
 | Limit switch    | 10  | Up direction       |
 | Limit switch    | 10  | Down direction     |
 | Air             | 32  | Relay for solenoid |
+
+## See the first victum
+
+Click to see the video
+[![Scare](docs/scare.jpg)](docs/scare.mov "Scary")
